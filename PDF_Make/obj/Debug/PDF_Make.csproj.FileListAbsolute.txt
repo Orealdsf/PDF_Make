@@ -1,0 +1,11 @@
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\bin\Debug\PDF_Make.exe.config
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\bin\Debug\PDF_Make.exe
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\bin\Debug\PDF_Make.pdb
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\bin\Debug\itextsharp.dll
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\bin\Debug\itextsharp.xml
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\obj\Debug\PDF_Make.csprojAssemblyReference.cache
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\obj\Debug\PDF_Make.csproj.CoreCompileInputs.cache
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\obj\Debug\PDF_Make.csproj.CopyComplete
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\obj\Debug\PDF_Make.exe
+C:\Users\10807560\source\repos\PDF_Make\PDF_Make\obj\Debug\PDF_Make.pdb
